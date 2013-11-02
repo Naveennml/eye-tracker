@@ -1,4 +1,5 @@
-
+#vim files
+*.sw*
 # C extensions
 *.so
 
